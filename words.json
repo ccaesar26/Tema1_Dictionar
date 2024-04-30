@@ -1,0 +1,320 @@
+[
+  {
+    "WordName": "Banan\u0103",
+    "Category": "Fruct",
+    "Definition": "Fruct de banan, av\u00E2nd culoare galben\u0103, form\u0103 lunguia\u021B\u0103, miez f\u0103inos, zaharos \u0219i aromat.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\banana.png"
+  },
+  {
+    "WordName": "Cirea\u0219\u0103",
+    "Category": "Fruct",
+    "Definition": "Fructul cire\u0219ului, mic, sferic, c\u0103rnos, de culoare ro\u0219ie sau galben\u0103, cu gust dulce sau am\u0103rui.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\cireasa.png"
+  },
+  {
+    "WordName": "L\u0103m\u00E2ie",
+    "Category": "Fruct",
+    "Definition": "Fructul l\u0103m\u00E2iului, de form\u0103 sferic\u0103 alungit\u0103, cu coaja galben\u0103, aromat\u0103 \u0219i cu miezul acru, bogat \u00EEn vitamine.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\lamaie.png"
+  },
+  {
+    "WordName": "M\u0103r",
+    "Category": "Fruct",
+    "Definition": "Fruct al m\u0103rului, de form\u0103 rotund\u0103-turtit\u0103 \u0219i de diferite culori.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\mar.png"
+  },
+  {
+    "WordName": "Pepene",
+    "Category": "Fruct",
+    "Definition": "Fructul a dou\u0103 specii de plante erbacee din familia cucurbitaceelor, cu tulpin\u0103 t\u00E2r\u00E2toare lung\u0103 \u0219i cu fructe comestibile.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\pepene.png"
+  },
+  {
+    "WordName": "Piersic\u0103",
+    "Category": "Fruct",
+    "Definition": "Fructul piersicului, sferic, c\u0103rnos, suculent, acoperit cu o pieli\u021B\u0103 pufoas\u0103 de culoare g\u0103lbuie-ro\u0219iatic\u0103.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\piersica.png"
+  },
+  {
+    "WordName": "Portocal\u0103",
+    "Category": "Fruct",
+    "Definition": "Fructul portocalului, de form\u0103 sferic\u0103, aromat \u0219i zemos, bogat \u00EEn vitamine, \u00EEnvelit \u00EEntr-o coaj\u0103 de culoare galben\u0103-ro\u0219iatic\u0103.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\portocala.png"
+  },
+  {
+    "WordName": "Prun\u0103",
+    "Category": "Fruct",
+    "Definition": "Fructul prunului, drup\u0103 de form\u0103 alungit\u0103, de culoare v\u00E2n\u0103t\u0103 sau g\u0103lbuie, cu s\u00E2mbure mare.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\pruna.png"
+  },
+  {
+    "WordName": "Strugure",
+    "Category": "Fruct",
+    "Definition": "Fructul vi\u021Bei-de-vie, \u00EEn form\u0103 de ciorchine.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\strugure.png"
+  },
+  {
+    "WordName": "Zmeura",
+    "Category": "Fruct",
+    "Definition": "Fructul zmeurului.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\zmeura.png"
+  },
+  {
+    "WordName": "\u0218coal\u0103",
+    "Category": "Cl\u0103dire",
+    "Definition": "Institu\u021Bie de \u00EEnv\u0103\u021B\u0103m\u00E2nt public, unde se predau elementele de baz\u0103 ale principalelor discipline.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\scoala.png"
+  },
+  {
+    "WordName": "Banc\u0103",
+    "Category": "Cl\u0103dire",
+    "Definition": "Institu\u021Bie financiar\u0103 care are ca activitate principal\u0103 atragerea de depozite \u0219i \u00EEmprumutarea unor sume \u00EEn scopul acord\u0103rii de credite \u0219i efectu\u0103rii de plasamente.",
+    "ImagePath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Words\\banca.png"
+  },
+  {
+    "WordName": "Pui",
+    "Category": "Animal",
+    "Definition": "Pas\u0103re, de la ie\u0219irea din ou p\u00E2n\u0103 la maturitate.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/pui.png"
+  },
+  {
+    "WordName": "Pisic\u0103",
+    "Category": "Animal",
+    "Definition": "Mamifer domestic carnivor din familia felidelor, cu corpul suplu, acoperit cu blan\u0103 deas\u0103 \u0219i moale de diferite culori, cu capul rotund, cu botul foarte scurt, cu maxilarele puternice \u0219i cu ghearele retractile \u0219i ascu\u021Bite ",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/pisica.png"
+  },
+  {
+    "WordName": "Vac\u0103",
+    "Category": "Animal",
+    "Definition": "Animal domestic din specia bovinelor, femela taurului.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/vaca.png"
+  },
+  {
+    "WordName": "Porc",
+    "Category": "Animal",
+    "Definition": "Mamifer domestic omnivor, cu capul de form\u0103 conic\u0103, cu botul alungit, cu corpul acoperit cu p\u0103r aspru, scurt \u0219i relativ rar, crescut pentru carnea \u0219i gr\u0103simea lui",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/porc.png"
+  },
+  {
+    "WordName": "Pinguin",
+    "Category": "Animal",
+    "Definition": "Gen de p\u0103s\u0103ri palmipede marine, ihtiofage, cu ciocul lung, cu aripile scurte, negre, improprii pentru zbor, servind ca \u00EEnot\u0103toare, cu picioarele scurte, situate la extremitatea posterioar\u0103 a trunchiului, cu pieptul alb, cu mersul leg\u0103nat, care tr\u0103iesc \u00EEn grupuri \u00EEn regiunile polare sudice.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/pinguin.png"
+  },
+  {
+    "WordName": "G\u0103in\u0103",
+    "Category": "Animal",
+    "Definition": "Specie de pas\u0103re domestic\u0103, crescut\u0103 pentru carne \u0219i ou\u0103 (Gallus domestica); pas\u0103re care face parte din aceast\u0103 specie.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/gaina.png"
+  },
+  {
+    "WordName": "C\u00E2ine",
+    "Category": "Animal",
+    "Definition": "Animal mamifer carnivor, domesticit, folosit pentru paz\u0103, v\u00E2n\u0103toare etc.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/caine.png"
+  },
+  {
+    "WordName": "Cal",
+    "Category": "Animal",
+    "Definition": "Animal domestic erbivor, cu copita nedespicat\u0103, folosit la c\u0103l\u0103rie \u0219i la trac\u021Biune",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/cal.png"
+  },
+  {
+    "WordName": "Ardei",
+    "Category": "Legum\u0103",
+    "Definition": "Plant\u0103 erbacee cu flori albe \u0219i cu fructe bace verzi, ro\u0219ii sau galbene, \u00EEntrebuin\u021Bate \u00EEn alimenta\u021Bie",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/ardei.png"
+  },
+  {
+    "WordName": "Salat\u0103",
+    "Category": "Legum\u0103",
+    "Definition": "Plant\u0103 legumicol\u0103 erbacee din familia compozeelor, cu frunze mari \u0219i rotunde, comestibile",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/salata.png"
+  },
+  {
+    "WordName": "V\u00E2n\u0103t\u0103",
+    "Category": "Legum\u0103",
+    "Definition": "Plant\u0103 erbacee legumicol\u0103 cu fructe comestibile, mari, ovale, c\u0103rnoase, de culoare violet\u0103",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/vanata.png"
+  },
+  {
+    "WordName": "Morcov",
+    "Category": "Legum\u0103",
+    "Definition": "Plant\u0103 leguminoas\u0103 din familia umbeliferelor, cu r\u0103d\u0103cina groas\u0103 \u00EEn form\u0103 de con, de culoare galben\u0103-ro\u0219iatic\u0103 \u0219i cu gust dulce, folosit\u0103 \u00EEn alimenta\u021Bie",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/morcov.png"
+  },
+  {
+    "WordName": "Ro\u0219ie",
+    "Category": "Legum\u0103",
+    "Definition": "Plant\u0103 erbacee legumicol\u0103 cu tulpina \u00EEnalt\u0103, cu frunze mari, penate \u0219i cu flori galbene, cultivat\u0103 pentru fructul ei comestibil, sferic, ro\u0219u, zemos, bogat \u00EEn vitamine",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/rosie.png"
+  },
+  {
+    "WordName": "Usturoi",
+    "Category": "Legum\u0103",
+    "Definition": "Plant\u0103 erbacee din familia liliaceelor, cu gust \u0219i miros caracteristic, cu frunze lanceolate, al c\u0103rei bulb, format din mai mul\u021Bi bulbi mici de form\u0103 lunguia\u021B\u0103, are gust ustur\u0103tor, este bogat \u00EEn substan\u021Be nutritive \u0219i comestibil",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/usturoi.png"
+  },
+  {
+    "WordName": "Ceapa",
+    "Category": "Legum\u0103",
+    "Definition": "Plant\u0103 erbacee legumicol\u0103, bienal\u0103, din familia liliaceelor, comestibil\u0103, cu miros puternic, specific, cu tulpina aerian\u0103 dreapt\u0103, cilindric\u0103 \u0219i verde \u0219i cu cea subteran\u0103 \u00EEn form\u0103 de bulb, cu frunze cilindrice \u0219i cu flori albe numeroase, dispuse \u00EEn inflorescen\u021Be dese",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/ceapa.png"
+  },
+  {
+    "WordName": "Varza",
+    "Category": "Legum\u0103",
+    "Definition": "Plant\u0103 legumicol\u0103 bienal\u0103 din familia cruciferelor, cu frunze mari, groase \u0219i ondulate, care se \u00EEnvelesc unele pe altele form\u00E2nd o c\u0103p\u0103\u021B\u00E2n\u0103 compact\u0103, folosit\u0103 \u00EEn alimenta\u021Bie",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/varza.png"
+  },
+  {
+    "WordName": "C\u0103p\u0219un\u0103",
+    "Category": "Fruct",
+    "Definition": "Fruct fals al c\u0103p\u0219unului, format din \u00EEngro\u0219area receptaculului floral \u00EEn care sunt \u00EEngropate fructele propriu-zise, asem\u0103n\u0103tor cu fraga, dar mai mare ca aceasta, de culoare ro\u0219ie, c\u0103rnos, parfumat \u0219i gustos.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/capsuna.png"
+  },
+  {
+    "WordName": "Bibliotec\u0103",
+    "Category": "Cl\u0103dire",
+    "Definition": "\u00CEnc\u0103pere, sal\u0103 \u00EEn care se p\u0103streaz\u0103 \u0219i se citesc c\u0103r\u021Bile.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/biblioteca.png"
+  },
+  {
+    "WordName": "Cas\u0103",
+    "Category": "Cl\u0103dire",
+    "Definition": "Cl\u0103dire care serve\u0219te drept locuin\u021B\u0103.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/casa.png"
+  },
+  {
+    "WordName": "Spital",
+    "Category": "Cl\u0103dire",
+    "Definition": "Institu\u021Bie medical\u0103 curativ\u0103-profilactic\u0103 \u00EEn care sunt trata\u021Bi bolnavii, accidenta\u021Bii sau r\u0103ni\u021Bii.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/3063176.png"
+  },
+  {
+    "WordName": "Poli\u021Bie",
+    "Category": "Cl\u0103dire",
+    "Definition": "Cl\u0103dire \u00EEn care \u00EE\u0219i are sediul o poli\u021Bie.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/307982.png"
+  },
+  {
+    "WordName": "Hotel",
+    "Category": "Cl\u0103dire",
+    "Definition": "Cl\u0103dire mare cu multe camere sau apartamente mobilate, care se \u00EEnchiriaz\u0103 de obicei cu ziua (c\u0103l\u0103torilor).",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/10849010.png"
+  },
+  {
+    "WordName": "Biseric\u0103",
+    "Category": "Cl\u0103dire",
+    "Definition": "Cl\u0103dire destinat\u0103 celebr\u0103rii unui cult cre\u0219tin.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/2300618.png"
+  },
+  {
+    "WordName": "Senvi\u0219",
+    "Category": "M\u00E2ncare",
+    "Definition": "Felie de p\u00E2ine (uns\u0103 cu unt) cu un aliment rece (\u0219unc\u0103, salam, br\u00E2nz\u0103 etc.), peste care se a\u0219az\u0103 adesea a doua felie de p\u00E2ine.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/senvis.png"
+  },
+  {
+    "WordName": "Friptur\u0103",
+    "Category": "M\u00E2ncare",
+    "Definition": "Fel de m\u00E2ncare const\u00E2nd din carne fript\u0103 pe gr\u0103tar, \u00EEn frigare sau \u00EEn tigaie.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/friptura.png"
+  },
+  {
+    "WordName": "Pizza",
+    "Category": "M\u00E2ncare",
+    "Definition": "Tart\u0103 din aluat, garnisit\u0103 cu ro\u0219ii, ciuperci, ca\u0219caval, \u0219unc\u0103, pe\u0219te etc.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/pizza.png"
+  },
+  {
+    "WordName": "Sup\u0103",
+    "Category": "M\u00E2ncare",
+    "Definition": "Fiertur\u0103 de carne, de legume sau de carne cu legume, uneori cu adaos de t\u0103i\u021Bei, fidea etc.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/supa.png"
+  },
+  {
+    "WordName": "Ap\u0103",
+    "Category": "B\u0103utur\u0103",
+    "Definition": "Lichid incolor, f\u0103r\u0103 gust \u0219i f\u0103r\u0103 miros, compus hidrogenat al oxigenului, care formeaz\u0103 unul dintre \u00EEnveli\u0219urile P\u0103m\u00E2ntului.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/apa.png"
+  },
+  {
+    "WordName": "Limonad\u0103",
+    "Category": "B\u0103utur\u0103",
+    "Definition": "B\u0103utur\u0103 r\u0103coritoare f\u0103cut\u0103 din zeam\u0103 de l\u0103m\u00E2ie (sau de un \u00EEnlocuitor al ei), ap\u0103 \u0219i zah\u0103r.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/limonada.png"
+  },
+  {
+    "WordName": "Suc",
+    "Category": "B\u0103utur\u0103",
+    "Definition": "Lichid con\u021Binut \u00EEn substan\u021Bele vegetale, \u00EEn special \u00EEn fructe, de unde poate fi extras prin presare sau stoarcere.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/suc.png"
+  },
+  {
+    "WordName": "Cafea",
+    "Category": "B\u0103utur\u0103",
+    "Definition": "B\u0103utur\u0103 preparat\u0103 din cafea pr\u0103jit\u0103 \u0219i r\u00E2\u0219nit\u0103 sau dintr-un surogat.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/cafea.png"
+  },
+  {
+    "WordName": "Vin",
+    "Category": "B\u0103utur\u0103",
+    "Definition": "B\u0103utur\u0103 alcoolic\u0103 (de 7-16%) ob\u021Binut\u0103 prin fermentarea mustului de struguri.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/vin.png"
+  },
+  {
+    "WordName": "Bere",
+    "Category": "B\u0103utur\u0103",
+    "Definition": "B\u0103utur\u0103 alcoolic\u0103 slab\u0103, ob\u021Binut\u0103 prin fermentarea unei infuzii rezultate din fierberea \u00EEn ap\u0103 a mal\u021Bului \u0219i a florilor de hamei.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/bere.png"
+  },
+  {
+    "WordName": "Pulover",
+    "Category": "Vestimenta\u021Bie",
+    "Definition": "Obiect de \u00EEmbr\u0103c\u0103minte tricotat (f\u0103r\u0103 nasturi), care acoper\u0103 partea de sus a corpului \u0219i se poart\u0103 de obicei peste c\u0103ma\u0219\u0103 sau peste bluz\u0103.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/pulover.png"
+  },
+  {
+    "WordName": "Curea",
+    "Category": "Vestimenta\u021Bie",
+    "Definition": "F\u00E2\u0219ie lung\u0103 din piele, c\u00E2nep\u0103, material plastic etc. cu numeroase \u00EEntrebuin\u021B\u0103ri.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/curea.png"
+  },
+  {
+    "WordName": "C\u0103ma\u0219\u0103",
+    "Category": "Vestimenta\u021Bie",
+    "Definition": "\u00CEmbr\u0103c\u0103minte (de p\u00E2nz\u0103, m\u0103tase etc.) care se poart\u0103 pe piele, acoperind partea superioar\u0103 a corpului.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/camasa.png"
+  },
+  {
+    "WordName": "\u0218oset\u0103",
+    "Category": "Vestimenta\u021Bie",
+    "Definition": "Ciorap scurt, care acoper\u0103 piciorul p\u00E2n\u0103 deasupra gleznei.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/soseta.png"
+  },
+  {
+    "WordName": "Rochie",
+    "Category": "Vestimenta\u021Bie",
+    "Definition": "\u00CEmbr\u0103c\u0103minte femeiasc\u0103 la care bluza \u0219i fusta (din acela\u0219i material) formeaz\u0103 o singur\u0103 pies\u0103.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/rochie.png"
+  },
+  {
+    "WordName": "Pantof",
+    "Category": "Vestimenta\u021Bie",
+    "Definition": "\u00CEnc\u0103l\u021B\u0103minte de strad\u0103 din piele, din materiale sintetice sau din p\u00E2nz\u0103, care acoper\u0103 laba piciorului p\u00E2n\u0103 la glezn\u0103.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/pantof.png"
+  },
+  {
+    "WordName": "Pantalon",
+    "Category": "Vestimenta\u021Bie",
+    "Definition": "\u00CEmbr\u0103c\u0103minte exterioar\u0103 care acoper\u0103, de la mijloc \u00EEn jos, corpul \u0219i fiecare picior \u00EEn parte.",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/pantaloni.png"
+  },
+  {
+    "WordName": "Tricou",
+    "Category": "Vestimenta\u021Bie",
+    "Definition": "Obiect de \u00EEmbr\u0103c\u0103minte din tricot de bumbac sau de l\u00E2n\u0103, care acoper\u0103 jum\u0103tatea de sus a corpului \u0219i care se poart\u0103 ca o c\u0103ma\u0219\u0103 sau ca un maiou (mai ales la sportivi).",
+    "ImagePath": "file:///C:/Users/cezar/OneDrive - Universitatea Transilvania din Brasov/MI - IA - an II/MVP/Tema1_Dictionar/Words/tricou.png"
+  }
+]

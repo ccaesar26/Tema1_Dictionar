@@ -1,0 +1,43 @@
+﻿<Page x:Class="Tema1_Dictionar.SearchPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Tema1_Dictionar"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      Title="SearchPage">
+
+    <Page.DataContext>
+      <local:WordsData/>
+    </Page.DataContext>
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF8EC9FF"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <StackPanel Name="WordPanel" Orientation="Horizontal" Margin="20,40,20,20" Visibility="Hidden">
+            <StackPanel VerticalAlignment="Center" Margin="20,20,20,20">
+                <Label Name="WordNameLabel" Content="" HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top" FontWeight="Bold" FontSize="28" Width="280"/>
+                <Label Name="CategoryLabel"  Content="" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontStyle="Italic" Width="280" Margin="10,10,10,10"/>
+                <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Width="280" Height="180" Margin="10,10,10,10" Padding="4">
+                  <TextBlock Name="DefinitionTextBlock" TextWrapping="Wrap" Text=""/>
+                </ScrollViewer>    
+            </StackPanel>
+            <Grid Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Image Name="Image" Width="256" Height="256" HorizontalAlignment="Center" VerticalAlignment="Center" Source="/no_image.png" Margin="60,30,60,30"/>
+            </Grid>
+        </StackPanel>
+      <StackPanel>
+        <StackPanel Orientation="Horizontal">
+          <Label Content="Caută în dicționar:" Margin="10,10,10,10" Width="120" FontSize="14" Padding="4"/>
+          <TextBox Name="SearchTextBox" Text="" TextChanged="SearchTextBox_TextChanged" Width="510" Margin="0,10,0,10" Padding="4,4,4,0" FontSize="14"/>
+          <ComboBox Name="SearchTypeComboBox" SelectedIndex="0" ItemsSource="{Binding SearchTypes}" SelectedValue="Toate" Width="110" Margin="10,10,10,10" FontSize="14" Padding="4"/>
+        </StackPanel>
+            <ListBox Name="SearchResultsListBox" Height="100" ItemsSource="{Binding SearchResults}" Margin="140,0,14,0" FontSize="14" Visibility="Collapsed" Padding="4" SelectionChanged="SearchResultsListBox_SelectionChanged"/>
+        </StackPanel>
+    </Grid>
+</Page>

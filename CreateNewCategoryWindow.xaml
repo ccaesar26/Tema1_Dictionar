@@ -1,0 +1,18 @@
+﻿<Window x:Class="Tema1_Dictionar.CreateNewCategoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema1_Dictionar"
+        mc:Ignorable="d"
+        Title="Categorie nouă" Height="200" Width="260">
+    <Grid>
+        <StackPanel>
+            <Label Content="Introduceți noua categorie" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top" FontSize="16"/>
+            <TextBox x:Name="categoryName" HorizontalAlignment="Left" Height="30" Margin="20,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="16" Padding="4"/>
+            <Button x:Name="createCategory" Content="Create" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top" Width="200" Height="30" FontSize="16" Padding="4" Click="createCategory_Click"/>
+        </StackPanel>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,60 @@
+﻿<Page x:Class="Tema1_Dictionar.AdminPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Tema1_Dictionar"
+      mc:Ignorable="d" 
+      d:DesignHeight="580" d:DesignWidth="800"
+      Title="AdminPage">
+    <Page.DataContext>
+        <local:WordsData/>
+    </Page.DataContext>
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF8EC9FF"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <StackPanel>
+            <Label x:Name="TitleLabel" Content="Gestionare dicționar" HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Foreground="#FF021329" FontWeight="Bold" FontSize="32"/>
+
+            <DataGrid Height="320" ItemsSource="{Binding Words}" AutoGenerateColumns="False" Margin="20,20,20,20" IsReadOnly="True" SelectionUnit="Cell" SelectionMode="Single" Background="{x:Null}" BorderThickness="0,0,0,0" FontSize="14">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Cuvânt" Binding="{Binding WordName}" Width="0.2*" FontSize="14"/>
+                    <DataGridTextColumn Header="Categorie" Binding="{Binding Category}" Width="0.20*" FontSize="14"/>
+                    <DataGridTextColumn Header="Definiție" Binding="{Binding Definition}" Width="*" FontSize="14"/>
+
+                    <DataGridTemplateColumn Header="Modificare" Width="80">
+                      <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                                <Button Width="16" Height="16" Background="Transparent" BorderThickness="0" Padding="2,2,2,2" Click="ModifyWordButton_Click">
+                            <Image Source="modify.png"/>
+                          </Button>
+                        </DataTemplate>
+                      </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Ștergere" Width="80">
+                      <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                                <Button Width="16" Height="16" Background="Transparent" BorderThickness="0" Padding="2,2,2,2" Click="DeleteWordButton_Click">
+                                    <Image Source="delete.png"/>
+                          </Button>
+                        </DataTemplate>
+                      </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+            
+        </StackPanel>
+        
+        <Button x:Name="AddWordButton" Content="Adăugare cuvânt" HorizontalAlignment="Left" Margin="20,0,0,20" VerticalAlignment="Bottom" Width="100" Height="30" Click="AddWordButton_Click" />
+
+
+    </Grid>
+</Page>

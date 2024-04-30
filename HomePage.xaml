@@ -1,0 +1,26 @@
+﻿<Page x:Class="Tema1_Dictionar.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Tema1_Dictionar"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      Title="HomePage">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF8EC9FF"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" TextWrapping="Wrap" Text="Dicționar Explicativ" Name="TitleBox" Foreground="#FF0063BF" FontSize="36" FontWeight="Bold" Margin="0,160,0,0"/>
+        <Button Content="Autentificare administrator" HorizontalAlignment="Right" Margin="0,10,10,0"  VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF00417D" BorderBrush="{x:Null}" Click="Button_Click"/>
+        <Button HorizontalAlignment="Center" Height="100" VerticalAlignment="Top" Width="100" Margin="0,260,0,0" Background="{x:Null}" BorderBrush="{x:Null}" Click="MagnifyButton_Click">
+            <Image Source="magnifying_glass.png"/>
+        </Button>
+        <Button Content="Distrează-te!" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,100" FontSize="16" Foreground="#FF0090FF" FontStyle="Italic" BorderBrush="{x:Null}" Background="{x:Null}" Click="Button_Click_1"/>
+
+    </Grid>
+</Page>

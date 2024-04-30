@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|c:\\users\\cezar\\onedrive - universitatea transilvania din brasov\\mi - ia - an ii\\mvp\\tema1_dictionar\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\wordsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:wordsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\editwordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:editwordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\editwordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:editwordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\words.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:words.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\jsonutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:jsonutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\createnewcategorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:createnewcategorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\adminloginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:adminloginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\createnewcategorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:createnewcategorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\adminloginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C967F7C1-4A7E-489A-8E96-85013D3B00ED}|Tema1_Dictionar.csproj|solutionrelative:adminloginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 179,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 704,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\GamePage.xaml.cs",
+              "RelativeDocumentMoniker": "GamePage.xaml.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\GamePage.xaml.cs",
+              "RelativeToolTip": "GamePage.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwFUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:32:39.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamePage.xaml",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\GamePage.xaml",
+              "RelativeDocumentMoniker": "GamePage.xaml",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\GamePage.xaml",
+              "RelativeToolTip": "GamePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T07:32:08.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\GameData.cs",
+              "RelativeDocumentMoniker": "GameData.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\GameData.cs",
+              "RelativeToolTip": "GameData.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:56:55.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\SearchPage.xaml.cs",
+              "RelativeToolTip": "SearchPage.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T21:09:20.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "words.json",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\words.json",
+              "RelativeDocumentMoniker": "words.json",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\words.json",
+              "RelativeToolTip": "words.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T17:04:00.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateNewCategoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\CreateNewCategoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CreateNewCategoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\CreateNewCategoryWindow.xaml.cs",
+              "RelativeToolTip": "CreateNewCategoryWindow.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:23:02.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateNewCategoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\CreateNewCategoryWindow.xaml",
+              "RelativeDocumentMoniker": "CreateNewCategoryWindow.xaml",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\CreateNewCategoryWindow.xaml",
+              "RelativeToolTip": "CreateNewCategoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T12:18:45.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditWordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\EditWordPage.xaml.cs",
+              "RelativeDocumentMoniker": "EditWordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\EditWordPage.xaml.cs",
+              "RelativeToolTip": "EditWordPage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:37:14.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditWordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\EditWordPage.xaml",
+              "RelativeDocumentMoniker": "EditWordPage.xaml",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\EditWordPage.xaml",
+              "RelativeToolTip": "EditWordPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T17:35:43.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "AdminPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\AdminPage.xaml.cs",
+              "RelativeToolTip": "AdminPage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAADsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:05:52.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WordsData.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\WordsData.cs",
+              "RelativeDocumentMoniker": "WordsData.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\WordsData.cs",
+              "RelativeToolTip": "WordsData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:00:02.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JsonUtility.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\JsonUtility.cs",
+              "RelativeDocumentMoniker": "JsonUtility.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\JsonUtility.cs",
+              "RelativeToolTip": "JsonUtility.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAB8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:19:49.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Word.cs",
+              "RelativeDocumentMoniker": "Word.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Word.cs",
+              "RelativeToolTip": "Word.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:16:10.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:04:23.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "AdminPage.xaml",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\AdminPage.xaml",
+              "RelativeToolTip": "AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T10:03:13.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminLogInPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\AdminLogInPage.xaml.cs",
+              "RelativeDocumentMoniker": "AdminLogInPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\AdminLogInPage.xaml.cs",
+              "RelativeToolTip": "AdminLogInPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwBgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:57:46.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminLogInPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\AdminLogInPage.xaml",
+              "RelativeDocumentMoniker": "AdminLogInPage.xaml",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\AdminLogInPage.xaml",
+              "RelativeToolTip": "AdminLogInPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T09:50:54.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\HomePage.xaml.cs",
+              "RelativeToolTip": "HomePage.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:23:29.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "SearchPage.xaml",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\SearchPage.xaml",
+              "RelativeToolTip": "SearchPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T18:36:18.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T17:47:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\HomePage.xaml",
+              "RelativeDocumentMoniker": "HomePage.xaml",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\HomePage.xaml",
+              "RelativeToolTip": "HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T17:41:10.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T17:39:43.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cezar\\OneDrive - Universitatea Transilvania din Brasov\\MI - IA - an II\\MVP\\Tema1_Dictionar\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:39:42.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
